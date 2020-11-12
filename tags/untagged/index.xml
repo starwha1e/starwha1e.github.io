@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Hang Li</title>
+    <link>https://starwha1e.github.io/tags/untagged/</link>
+    <description>Recent content in untagged on Hang Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 12 Nov 2020 11:11:55 +0800</lastBuildDate>
+    
+	<atom:link href="https://starwha1e.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>https://starwha1e.github.io/posts/projects/</link>
+      <pubDate>Thu, 12 Nov 2020 11:11:55 +0800</pubDate>
+      
+      <guid>https://starwha1e.github.io/posts/projects/</guid>
+      <description>Hello world!</description>
+    </item>
+    
+  </channel>
+</rss>

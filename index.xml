@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hang Li</title>
+    <link>https://starwha1e.github.io/</link>
+    <description>Recent content on Hang Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 12 Nov 2020 11:49:06 +0800</lastBuildDate>
+    
+	<atom:link href="https://starwha1e.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>https://starwha1e.github.io/projects/</link>
+      <pubDate>Thu, 12 Nov 2020 12:12:20 +0800</pubDate>
+      
+      <guid>https://starwha1e.github.io/projects/</guid>
+      <description>Unity game demos: available at bilibili and youtube.
+VR programming serious game demo: available at bilibili and youtube.</description>
+    </item>
+    
+    <item>
+      <title>Hi there</title>
+      <link>https://starwha1e.github.io/aboutme/</link>
+      <pubDate>Thu, 12 Nov 2020 12:05:06 +0800</pubDate>
+      
+      <guid>https://starwha1e.github.io/aboutme/</guid>
+      <description>My name is Hang Li, a Computer Science Student currently living in Shanghai, China. Instead of pasting my résumé here, I would like to list the things I like, so that you can compose my portrait in your head.</description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://starwha1e.github.io/notes/git/</link>
+      <pubDate>Thu, 12 Nov 2020 11:49:06 +0800</pubDate>
+      
+      <guid>https://starwha1e.github.io/notes/git/</guid>
+      <description>this is the git notes</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://starwha1e.github.io/posts/projects/</link>
+      <pubDate>Thu, 12 Nov 2020 11:11:55 +0800</pubDate>
+      
+      <guid>https://starwha1e.github.io/posts/projects/</guid>
+      <description>Hello world!</description>
+    </item>
+    
+  </channel>
+</rss>
