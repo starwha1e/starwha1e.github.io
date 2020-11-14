@@ -18,7 +18,41 @@
       <pubDate>Thu, 12 Nov 2020 11:49:06 +0800</pubDate>
       
       <guid>https://starwha1e.github.io/notes/git/</guid>
-      <description>this is the git notes</description>
+      <description>Concepts working directory, repository, stage, branch. HEAD means the current version HEAD^ means the previous version (1 version before) HEAD~100 100 version before
+Create git init initialise a git repository (inside that folder) Clone an existing repository: git clone git@github.com:username/repository_name.git git clone ssh://user@domain.com/repo.git git remote add origin git@server-name:path/repo-name.git connect a local repo git push -u origin master push master branch for the first time
+Local Changes git status to check the status of the work space git add &amp;lt;file&amp;gt; add file, you can add multiple files git diff check the change you have made before commit git add .</description>
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>https://starwha1e.github.io/notes/unity/</link>
+      <pubDate>Mon, 14 Sep 2020 11:32:14 +0800</pubDate>
+      
+      <guid>https://starwha1e.github.io/notes/unity/</guid>
+      <description>Unity Shortcuts 选中物体 F 居中 V 顶点吸附 Command + D: Duplicate a GameObject Command + Shift + F: quick set transform attribute to the selected object
+General Stuffs Use parent-child relationship to combine several objects into one. (Use a new empty object to contain the models) Player: Empty object as Parent, children: player model, camera. position of child object is relevant to the parent Apply Material (Material is an instance of a shader) Create a material GameObject - Inspector - Mesh Renderer - Materials - Element Four Modes: Opaque (The A value in RGBA will not take effect) Cutout (only display the non-transparent part of the pic) Fade (Change the A value in RGBA, the object can be completely invisible) Transparent (Change the A value in RGBA, always visible, e.</description>
+    </item>
+    
+    <item>
+      <title>Unix</title>
+      <link>https://starwha1e.github.io/notes/unix/</link>
+      <pubDate>Thu, 14 Nov 2019 11:33:34 +0800</pubDate>
+      
+      <guid>https://starwha1e.github.io/notes/unix/</guid>
+      <description>SSH: use UNIX remotely SFTP: Secure file transfer protocol UNIX commands: Command + Flag + Argument
+UNIX file store, File Processing and I/O Suffix suggests the type of content Unix thinks everything is a file. File starts with a dot (.) is a hidden file
+Directories and pathnames man #manual pages whatis #show brief manual pages ls / ls [pathname] #lists the contents of the named directories ls -l #see permission lists ls -g #see the long listing of the files (more about permission) ls -a #show the hidden files (files start with a dot, do not show up in a straight ls command) ls -F #show files with serial number cd [pathname] changes current directory .</description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>https://starwha1e.github.io/notes/mysql/</link>
+      <pubDate>Mon, 14 Oct 2019 09:41:30 +0800</pubDate>
+      
+      <guid>https://starwha1e.github.io/notes/mysql/</guid>
+      <description>mysql.cs.nott.ac.uk
+ER Diagram 1 single fruit can only be sold to one destination 1 student can enrolled in many lectures
+LAB 1 select round(countries_gdp / countries_population,2) as &amp;#39;gdp_per_capita&amp;#39;, countries_name from Countries order by gdp_per_capita DESC; select countries_name from Countries where countries_area &amp;gt; 20000; select countries_name from Countries where countries_area between 100000 and 200000; select countries_name from Countries where countries_name like &amp;#39;M%&amp;#39;; # wildcard &amp;#39;% _&amp;#39; select sum(countries_population) as &amp;#39;total&amp;#39; from Countries; Create table use zy19165; CREATE TABLE Artist ( artist_id INT NOT NULL AUTO_INCREMENT, artist_name VARCHAR(255) NOT NULL, CONSTRAINT pk_artist PRIMARY KEY (artist_id), CONSTRAINT ck_artist UNIQUE (artist_name) ); CREATE TABLE Album ( album_id INT NOT NULL AUTO_INCREMENT, artist_id INT NOT NULL, album_title VARCHAR(255) NOT NULL, album_price REAL NOT NULL, album_genre VARCHAR(255) NULL, album_num_tracks INT NULL, CONSTRAINT pk_album PRIMARY KEY (album_id), CONSTRAINT fk_album_artist FOREIGN KEY (artist_id) REFERENCES Artist (artist_id) ); Insert Into INSERT INTO Artist (artist_name) VALUES (&amp;#39;Muse&amp;#39;), (&amp;#39;Mr.</description>
     </item>
     
   </channel>
