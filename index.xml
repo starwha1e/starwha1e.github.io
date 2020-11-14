@@ -18,8 +18,8 @@
       <pubDate>Thu, 12 Nov 2020 12:12:20 +0800</pubDate>
       
       <guid>https://starwha1e.github.io/projects/</guid>
-      <description>Unity game demos: available at bilibili and youtube.
-VR programming serious game demo: available at bilibili and youtube.
+      <description>Unity game demos Available at bilibili and youtube.
+VR programming serious game demo Available at bilibili and youtube.
 OpenGL Scene Introduction When I was a child, I usually snuck out from my apartment and take a bus to go to a mall for playing arcade games, the scene try to restore the view of the mall and the objects surrounding it. The scene consists a house with two arcades in the left, a security guard wandering in front of it, a tree next to the house, a moving car on the other side and a galaxy in the top of the scene.</description>
     </item>
     
@@ -30,8 +30,17 @@ OpenGL Scene Introduction When I was a child, I usually snuck out from my apartm
       
       <guid>https://starwha1e.github.io/aboutme/</guid>
       <description>My name is Hang Li, a Computer Science Student currently living in Shanghai, China. Instead of pasting my résumé here, I would like to list the things I like, so that you can compose my portrait in your head.
-Games Splatoon 2 Persona 5 God of War Portal 2 Katana Zero Hades Va-11 Hall-A: Cyberpunk Bartender
-Movies Pulp fiction（低俗小说） Leon: the professional （这个杀手不太冷） Whiplash （爆裂鼓手） 让子弹飞 (Let the Bullets Fly) 君の名は。（你的名字）</description>
+Games Splatoon 2
+Persona 5
+God of War
+Portal 2
+Katana Zero
+Hades
+Va-11 Hall-A: Cyberpunk Bartender
+Movies Pulp fiction（低俗小说）
+Leon: the professional （这个杀手不太冷）
+Whiplash （爆裂鼓手）
+让子弹飞 (Let the Bullets Fly)</description>
     </item>
     
     <item>
@@ -41,8 +50,13 @@ Movies Pulp fiction（低俗小说） Leon: the professional （这个杀手不�
       
       <guid>https://starwha1e.github.io/notes/git/</guid>
       <description>Concepts working directory, repository, stage, branch. HEAD means the current version HEAD^ means the previous version (1 version before) HEAD~100 100 version before
-Create git init initialise a git repository (inside that folder) Clone an existing repository: git clone git@github.com:username/repository_name.git git clone ssh://user@domain.com/repo.git git remote add origin git@server-name:path/repo-name.git connect a local repo git push -u origin master push master branch for the first time
-Local Changes git status to check the status of the work space git add &amp;lt;file&amp;gt; add file, you can add multiple files git diff check the change you have made before commit git add .</description>
+Create git init initialise a git repository (inside that folder)
+Clone an existing repository:
+git clone git@github.com:username/repository_name.git
+git clone ssh://user@domain.com/repo.git
+git remote add origin git@server-name:path/repo-name.git connect a local repo
+git push -u origin master push master branch for the first time
+Local Changes git status to check the status of the work space</description>
     </item>
     
     <item>
@@ -62,7 +76,8 @@ General Stuffs Use parent-child relationship to combine several objects into one
       
       <guid>https://starwha1e.github.io/posts/splatoon2/</guid>
       <description>Introduction to Splatoon 2 Splatoon 2 is a third-person shooter developed by Nintendo, the sequel of Splatoon, whose gameplay ideas distinguishes it from other titles in the genre (Robinson, 2014). Players use a controller to play this game and can use motion sensing to support aiming by leaning the controller.
-A broad analysis of Splatoon 2 Splatoon 2 uses coloured ink ammunition instead of real ammunition. This subverts the rules and game experience of a traditional shooting game to a certain extent.</description>
+A broad analysis of Splatoon 2
+Splatoon 2 uses coloured ink ammunition instead of real ammunition. This subverts the rules and game experience of a traditional shooting game to a certain extent.</description>
     </item>
     
     <item>

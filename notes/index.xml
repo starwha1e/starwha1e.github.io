@@ -19,8 +19,13 @@
       
       <guid>https://starwha1e.github.io/notes/git/</guid>
       <description>Concepts working directory, repository, stage, branch. HEAD means the current version HEAD^ means the previous version (1 version before) HEAD~100 100 version before
-Create git init initialise a git repository (inside that folder) Clone an existing repository: git clone git@github.com:username/repository_name.git git clone ssh://user@domain.com/repo.git git remote add origin git@server-name:path/repo-name.git connect a local repo git push -u origin master push master branch for the first time
-Local Changes git status to check the status of the work space git add &amp;lt;file&amp;gt; add file, you can add multiple files git diff check the change you have made before commit git add .</description>
+Create git init initialise a git repository (inside that folder)
+Clone an existing repository:
+git clone git@github.com:username/repository_name.git
+git clone ssh://user@domain.com/repo.git
+git remote add origin git@server-name:path/repo-name.git connect a local repo
+git push -u origin master push master branch for the first time
+Local Changes git status to check the status of the work space</description>
     </item>
     
     <item>
